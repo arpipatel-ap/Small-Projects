@@ -258,13 +258,7 @@
 
 // }
 
-//Palindrome using Array methods
 
-let string = prompt("Please enter the string");
-//let len = string.length;
-
-let stringArray =  string.split('');
-console.log(stringArray);
 
 
 
